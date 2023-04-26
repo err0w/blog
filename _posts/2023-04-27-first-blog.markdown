@@ -5,7 +5,7 @@ layout: post
 slug: first-blog
 title: First Blog
 desc: 'First Blog'
-wordpress_id: 23
+wordpress_id: 26
 categories:
 - Blog
 tags:

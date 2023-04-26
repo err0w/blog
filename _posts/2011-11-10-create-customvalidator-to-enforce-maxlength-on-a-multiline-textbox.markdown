@@ -4,7 +4,7 @@ comments: true
 date: 2011-11-10 21:46:46+00:00
 layout: post
 slug: create-customvalidator-to-enforce-maxlength-on-a-multiline-textbox
-title: Create CustomValidator to enforce MaxLength on a MultiLine TextBox
+title: Changed Title MOFO
 desc: 'Example ASP.NET code for creating a custom validator to enforce a maximum length on a multiline textbox'
 wordpress_id: 23
 categories:
