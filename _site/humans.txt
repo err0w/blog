@@ -1,6 +1,0 @@
-/* TEAM */
-
-Name: Joe Kampschmidt
-Role: Author
-Twitter: @jokecamp
-Location: Washington DC, USA
