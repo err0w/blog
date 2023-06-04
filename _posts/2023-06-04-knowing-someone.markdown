@@ -33,7 +33,7 @@ These questions aren't merely intellectual exercises; they have significant impl
 
 Based on empirical evidence, we can confirm that knowing a person is indeed possible. For example, "I know myself, and I am a person." Furthermore, knowing someone exists on a spectrum, ranging from being a fan or stalker to self-knowledge. The scale can be represented as follows:
 
-![Knowing A Person Scale](knowing_scale.png)
+<img src="https://raw.githubusercontent.com/err0w/err0w.github.io/main/_posts/knowing_scale.png" alt="knowing_someone_scale">
 
 Broadly speaking, knowing a person can be divided into three areas:
 
