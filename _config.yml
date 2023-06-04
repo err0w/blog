@@ -9,24 +9,23 @@ exclude:          ['.asset_pipeline', 'deploy.sh', 'server-script.sh']
 permalink:        /:title
 
 # Setup
-title:            Joe Kampschmidt's Code
-description:      "a pragmatic approach to web and software development"
-url:              https://www.jokecamp.com
+title:            Saurabh Meena's Public Diary
+description:      "a pragmatic approach to world"
+url:              https://err0w.github.io/
 #url:              http://localhost:4000
 baseurl:          /
 
 author:
-  name:           'Joe Kampschmidt'
-  url:            https://twitter.com/jokecamp
-  email:          joe.kampschmidt@gmail.com
+  name:           Saurabh Meena
+  url:            https://twitter.com/mr_fountainhead
+  email:          sourabhmeena381@gmail.com
 
-githubProject:    https://github.com/jokecamp/jokecamp.com/
-githubBranch:     tree/master/
 
 # Custom vars
-github:           https://github.com/jokecamp
-twitter:          https://twitter.com/jokecamp
-stackoverflow:    http://stackoverflow.com/users/215502/kampsj
+github:           https://github.com/err0w
+twitter:          https://twitter.com/mr_fountainhead
+instagram:    https://www.instagram.com/mr_fountainhead
+linkedin:     https://www.linkedin.com/in/smeena007/
 
 version:          1.0
 
