@@ -26,4 +26,4 @@ These questions aren't just intellectual excercise but have important implicatio
 
 ### Is it possible to know someone?
 By empirical evidences, we know that knowing a person is possible as "I know myself" and also that knowing someone has to be a scale - From being a fan/stalker to knowing myself. The scale should look as follows:
-![knowing someone scale](knowing_scale.png) 
+![knowing_scale](knowing_scale.png) 
