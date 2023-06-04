@@ -12,4 +12,4 @@ categories:
 tags:
 - test
 ---
-This is first blog
+This is just a test blog
