@@ -1,7 +1,5 @@
-## Joe Kampschmidt's (Joe's Code) Personal Website/Blog
+## Suarabh Meena's Personal Website/Blog
 
-
-Source code for <https://www.jokecamp.com>
 
 The website is a static site built with [Poole](https://github.com/poole/poole) and [Jekyll](http://jekyllrb.com).
 
