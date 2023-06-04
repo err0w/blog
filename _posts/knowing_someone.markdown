@@ -3,7 +3,7 @@ author: Saurabh
 comments: true
 date: 2023-06-04
 layout: post
-slug: first-blog
+slug: knowing-someone-npc-question
 title: 'What does it mean to know a person?'
 desc: 'A first principle take on "knowing a person"'
 wordpress_id: 26
