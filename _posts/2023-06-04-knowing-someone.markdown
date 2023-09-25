@@ -18,12 +18,10 @@ Consider the following hypothetical scenarios:
 
 1. As a huge fan of Jitendra Kumar (known for his roles in Panchayat & TVF), I have acquired extensive knowledge about him - his birthdate, favorite color, and famous movie quotes. One day, I saw him walking down the street, and I was taken aback. Uncertain of what to do, I recalled the impersonal knowledge I had about him. So I gathered the courage and shouted, "Hey Jeetu Bhaiya, I know you were born on August 11th, and your favorite color is blue!" He smiled politely and continued walking.
 
-2. While conversing with a potential arranged marriage prospect named Karishma (a fictional character 😛), I learned many things about her - her interests, hobbies, political views, goals, and personal history. One day, a mutual friend mentioned something about her that seemed incorrect, and I immediately responded, "You are wrong!"
-
 Now, let's explore a few questions related to knowing someone:
 
-1. Do I truly know Jeetu or Karishma? Which one do I know better?
-2. Are Jeetu, Karishma, and, by extension, all of us merely collections of impersonal facts and figures? Does having this knowledge mean that we genuinely know a person?
+1. Do I truly know Jeetu ?
+2. Is Jeetu, and, by extension, all of us merely collections of impersonal facts and figures? Does having this knowledge mean that we genuinely know a person?
 3. What does it truly mean to know someone? Is it even possible, or are we all enigmas waiting to be unraveled?
 4. What do we mean when we say, "I know person X"?
 
