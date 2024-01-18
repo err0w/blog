@@ -4,8 +4,8 @@ comments: true
 date: 2024-01-14
 layout: post
 slug: feedback-management
-title: 'What does it mean to know a person?'
-desc: 'A first principle take on "knowing a person"'
+title: 'Feedback Management'
+desc: 'A first principle take on "managing feedback"'
 wordpress_id: 26
 categories:
 - Blog
